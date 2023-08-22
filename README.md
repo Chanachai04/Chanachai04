@@ -5,7 +5,7 @@ I'm Student.
 ------------
 
 * 🌍  I'm based in Bangkok, Thailand.
-* 🖥️  See my portfolio at [MyPortfolio.](http://https://portfolio-le87.onrender.com)
+* 🖥️  See my portfolio at [MyPortfolio.](https://portfolio-le87.onrender.com)
 * ✉️  You can contact me at [mkub456@gmail.com](mailto:mkub456@gmail.com)
 * 🧠  I'm learning Dart, Flutter, Python, JavaScript, etc.
 
