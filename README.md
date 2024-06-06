@@ -6,7 +6,7 @@ I'm Student.
 
 * 🌍  I'm based in Bangkok, Thailand.
 * 🖥️  See my portfolio at [here.](https://portfolio-le87.onrender.com)
-* ✉️  You can contact me at [Nexus87th6@gmail.com](mailto:mkub456@gmail.com)
+* ✉️  You can contact me at [Nexus87th@gmail.com](mailto:mkub456@gmail.com)
 
 ### Badges
 
