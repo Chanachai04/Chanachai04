@@ -8,14 +8,6 @@ I'm Student.
 * 🖥️  See my portfolio at [MyPortfolio.](https://portfolio-le87.onrender.com)
 * ✉️  You can contact me at [Nexus87th6@gmail.com](mailto:mkub456@gmail.com)
 
-### Skills
-
-
-
-### Socials
-
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
-
 ### Badges
 
 <b>My GitHub Stats</b>
